@@ -7,7 +7,6 @@
 ## Sobre mim
 
 - :computer: Meus interesses envolvem desenvolvimento Mobile (Kotlin/Java) e Back-End (ecossistema Spring)
-- :computer: Atualmente estou aprendendo Android Jetpack, um conjunto de bibliotecas para ajudar os desenvolvedores a seguir as melhores práticas
 - :man_teacher: Currículo lattes :point_right: http://lattes.cnpq.br/4034180512792091
 
 
